@@ -1,0 +1,7 @@
+{
+  "name": "Vibe Focus Scheduler",
+  "description": "A productivity app featuring a dynamic timetable, AI-powered quest generation, and an immersive focus mode. Manage your life with RPG-style level-ups and smart scheduling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
